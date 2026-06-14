@@ -3837,6 +3837,3 @@ MobileToggle.MouseButton1Click:Connect(function()
 end)
 
 print("Dandy's World Utility v9.0 - Pastel Easter Theme Loaded")
-
-]====]
-}
